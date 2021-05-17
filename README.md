@@ -1,5 +1,5 @@
 # TestUserApp
-Test Interview Node JS test
+Test Interview React and Node JS test
 
 
 Technical Sample Application
