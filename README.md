@@ -79,3 +79,15 @@ Actually, there are two separated apps. The Client which serves the FrontEnd (us
 2. If you see a webpage saying `Welcome to React`, it means the FrontEnd is working.
 3. If the same webpage has the phrase `API is working properly`, it means the API is working.
 4. Enjoy!
+
+## Database creating and migration
+
+use following command to create a database and migrate will create table
+
+`create database database_development;`
+
+`npx sequelize-cli db:migrate`
+
+
+## Running Seeds
+`npx sequelize-cli db:seed:all`
